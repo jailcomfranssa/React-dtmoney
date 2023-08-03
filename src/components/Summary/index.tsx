@@ -6,7 +6,7 @@ export function Summary(){
             <div>
                 <header>
                     <p>Entradas</p>
-                    <p className="icon">💰⬆️</p>
+                    <p className="icon">💰⬇️</p>
                 </header>
                 <strong>R$1000,00</strong>
             </div>
@@ -14,7 +14,7 @@ export function Summary(){
             <div>
                 <header>
                     <p>Saídas</p>
-                    <p className="icon">💸⬇️</p>
+                    <p className="icon">💸⬆️</p>
                 </header>
                 <strong> - R$100,00</strong>
             </div>
