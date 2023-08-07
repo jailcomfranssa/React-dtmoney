@@ -67,7 +67,6 @@ interface RadioBoxProps {
 
 export const RadioBox = styled.button<RadioBoxProps> `
 
-    
             height: 4rem;
             border: 1px solid #d7d7d7;
             border-radius: 0%.25rem;
